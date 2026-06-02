@@ -1,1 +1,72 @@
+body {
+    background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  color:333;
+  margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+  background-color: white;
+  padding: 20px;
+  border-radius; 10px;
+  box-shadow: 2px 2px 8px gray;
+  max-width: 500px;
+  margin: auto;
+}
+
+label {
+display: block;
+margin-top: 10px;
+}
+
+input,
+select,
+textarea {
+  widht: 100px
+  padding: 8px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+textarea {
+  height: 80px;
+}
+
+button {
+  margin-top: 15px;
+  padding: 10px;
+  cursos: pointer;
+}
+
+.destaque {
+    text-align: center;
+}
+
+.formulario {
+    margin-top:  20px;
+}
+
+.campo-texto {
+background-color: #fafafa;
+}
+
+.botao-principal {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.secao {
+  margin-bottom: 20px;
+}
+
+.rodape {
+  text-algin: center;
+  margin-top: 20px;
+}
 
